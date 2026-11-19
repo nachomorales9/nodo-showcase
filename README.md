@@ -5,7 +5,12 @@
 **Status:** Live · https://nodo-web-ma3o.vercel.app
 **Models:** Claude Sonnet 4.6 (conversation) · Claude Haiku 4.5 (lead extraction)
 
-![Nodo](assets/cover.webp)
+![Nodo](assets/banner.svg)
+
+<p>
+  [![Live](https://img.shields.io/badge/live-demo-4fb8a1?style=flat-square&labelColor=0c0d0f)](https://nodo-web-ma3o.vercel.app)
+  [![Portfolio](https://img.shields.io/badge/portfolio-ignaciomoralesdev-b1a296?style=flat-square&labelColor=0c0d0f)](https://ignaciomoralesdev.vercel.app)
+</p>
 
 ## What it is
 
