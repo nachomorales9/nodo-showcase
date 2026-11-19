@@ -1,16 +1,20 @@
+<div align="center">
+
+<img src="assets/cover.webp" width="100%" alt="Nodo">
+
 # Nodo
 
-> An AI sales assistant: it understands each business, proposes a solution, and saves the lead in the CRM.
-
-**Status:** Live · https://nodo-web-ma3o.vercel.app
-**Models:** Claude Sonnet 4.6 (conversation) · Claude Haiku 4.5 (lead extraction)
-
-![Nodo](assets/banner.svg)
+**An AI sales assistant: it understands each business, proposes a solution, and saves the lead in the CRM.**
 
 <p>
-  [![Live](https://img.shields.io/badge/live-demo-4fb8a1?style=flat-square&labelColor=0c0d0f)](https://nodo-web-ma3o.vercel.app)
-  [![Portfolio](https://img.shields.io/badge/portfolio-ignaciomoralesdev-b1a296?style=flat-square&labelColor=0c0d0f)](https://ignaciomoralesdev.vercel.app)
+  <img src="https://img.shields.io/badge/status-live-4fb8a1?style=flat-square&labelColor=0c0d0f" alt="Status: live">
+  <a href="https://nodo-web-ma3o.vercel.app"><img src="https://img.shields.io/badge/demo-open-4fb8a1?style=flat-square&labelColor=0c0d0f" alt="Live demo"></a>
+  <a href="https://ignaciomoralesdev.vercel.app"><img src="https://img.shields.io/badge/portfolio-ignaciomoralesdev-b1a296?style=flat-square&labelColor=0c0d0f" alt="Portfolio"></a>
 </p>
+
+<p><sub>Claude Sonnet 4.6 (conversation) · Claude Haiku 4.5 (lead extraction)</sub></p>
+
+</div>
 
 ## What it is
 
